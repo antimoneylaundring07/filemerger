@@ -1,0 +1,1984 @@
+{
+    "Sheet2": [
+        {
+            "Handle": "airtel",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "AIRP",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "mairtel",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "aritel",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "mairtel.com",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "airtelupi",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "appl",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "apbl",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "MAlRTEL",
+            "Bank_name": "Airtel Payments Bank"
+        },
+        {
+            "Handle": "andb",
+            "Bank_name": "Andhra Bank"
+        },
+        {
+            "Handle": "andhrabank",
+            "Bank_name": "Andhra Bank"
+        },
+        {
+            "Handle": "aubank",
+            "Bank_name": "AU Small Finance Bank"
+        },
+        {
+            "Handle": "AUBL",
+            "Bank_name": "AU Small Finance Bank"
+        },
+        {
+            "Handle": "axl",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axisbank",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "okaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "okbizaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "waaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "jupiteraxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "abfspay",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axisb",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "freecharge",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axisgo",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "pingpay",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "sliceaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axsibank",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "apl",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "goaxb",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "AXI",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "UTIB",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "freecharg",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "recharge",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "okaxs",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "naviaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "okaxix",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "fkaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axixbank",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "abfpay",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "ptaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "axis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "okaixs",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "bandhan",
+            "Bank_name": "Bandhan Bank"
+        },
+        {
+            "Handle": "BDBL",
+            "Bank_name": "Bandhan Bank"
+        },
+        {
+            "Handle": "BBDL",
+            "Bank_name": "Bandhan Bank"
+        },
+        {
+            "Handle": "barodampay",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "barodamp",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "bob",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "barb",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "baropay",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "borapay",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "baromdam",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "boi",
+            "Bank_name": "Bank of India"
+        },
+        {
+            "Handle": "BKID",
+            "Bank_name": "Bank of India"
+        },
+        {
+            "Handle": "cnrb",
+            "Bank_name": "Canara Bank"
+        },
+        {
+            "Handle": "crnb",
+            "Bank_name": "Canara Bank"
+        },
+        {
+            "Handle": "csbpay",
+            "Bank_name": "Catholic Syrian Bank"
+        },
+        {
+            "Handle": "CSBK",
+            "Bank_name": "Catholic Syrian Bank"
+        },
+        {
+            "Handle": "centralbank",
+            "Bank_name": "Central Bank of India"
+        },
+        {
+            "Handle": "cbin",
+            "Bank_name": "Central Bank of India"
+        },
+        {
+            "Handle": "cboi",
+            "Bank_name": "Central Bank of India"
+        },
+        {
+            "Handle": "cub",
+            "Bank_name": "City Union Bank"
+        },
+        {
+            "Handle": "CIUB",
+            "Bank_name": "City Union Bank"
+        },
+        {
+            "Handle": "timecosmos",
+            "Bank_name": "Cosmos Co-operative Bank"
+        },
+        {
+            "Handle": "COSB",
+            "Bank_name": "Cosmos Co-operative Bank"
+        },
+        {
+            "Handle": "dbs",
+            "Bank_name": "Development Bank of Singapore"
+        },
+        {
+            "Handle": "DBSS",
+            "Bank_name": "Development Bank of Singapore"
+        },
+        {
+            "Handle": "dcb",
+            "Bank_name": "DCB Bank"
+        },
+        {
+            "Handle": "DCBL",
+            "Bank_name": "DCB Bank"
+        },
+        {
+            "Handle": "denabank",
+            "Bank_name": "Dena Bank"
+        },
+        {
+            "Handle": "BKDN",
+            "Bank_name": "Dena Bank"
+        },
+        {
+            "Handle": "dlb",
+            "Bank_name": "Dhanlaxmi Bank"
+        },
+        {
+            "Handle": "DLXB",
+            "Bank_name": "Dhanlaxmi Bank"
+        },
+        {
+            "Handle": "dbl",
+            "Bank_name": "Dhanlaxmi Bank"
+        },
+        {
+            "Handle": "equitas",
+            "Bank_name": "Equitas Small Finance Bank"
+        },
+        {
+            "Handle": "equitasbank",
+            "Bank_name": "Equitas Small Finance Bank"
+        },
+        {
+            "Handle": "ESFB",
+            "Bank_name": "Equitas Small Finance Bank"
+        },
+        {
+            "Handle": "esaf",
+            "Bank_name": "ESAF Small Finance Bank"
+        },
+        {
+            "Handle": "ESMF",
+            "Bank_name": "ESAF Small Finance Bank"
+        },
+        {
+            "Handle": "finobank",
+            "Bank_name": "Fino Payments Bank"
+        },
+        {
+            "Handle": "FINO",
+            "Bank_name": "Fino Payments Bank"
+        },
+        {
+            "Handle": "okhdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "hdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "wahdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "rmhdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "hdfcbankjd",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "ikwik",
+            "Bank_name": "MobiKwik"
+        },
+        {
+            "Handle": "hdfc",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "okhdfc",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "pz",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "okhdfcban",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "payzapp",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "rajgovhdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "okhdfcbabk",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "ohkhdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "okhdfcbnak",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "shriramhdfcbank",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "pthdfc",
+            "Bank_name": "HDFC Bank"
+        },
+        {
+            "Handle": "hsbc",
+            "Bank_name": "HSBC Bank"
+        },
+        {
+            "Handle": "DOHB",
+            "Bank_name": "HSBC Bank"
+        },
+        {
+            "Handle": "ibl",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "icici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "OKICICI",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "waicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "okbizicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "myicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "pockets",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "tapicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "zoicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "ICIC",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "imobile",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "ezeepay",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "eazypay",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "iblv",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "kicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "okicic",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "niyoicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "abcdicici",
+            "Bank_name": "ICICI Bank"
+        },
+        {
+            "Handle": "idbi",
+            "Bank_name": "IDBI"
+        },
+        {
+            "Handle": "idbibank",
+            "Bank_name": "IDBI"
+        },
+        {
+            "Handle": "ibkl",
+            "Bank_name": "IDBI"
+        },
+        {
+            "Handle": "idfc",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "cmsidfc",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcfirst",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcbank",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcfisrt",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcbabk",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcfrist",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "CMSlDFC",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "IDFB",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "cmsidf",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "idfcpay",
+            "Bank_name": "IDFC FIRST Bank"
+        },
+        {
+            "Handle": "postbank",
+            "Bank_name": "India Post Payments Bank"
+        },
+        {
+            "Handle": "IPOS",
+            "Bank_name": "India Post Payments Bank"
+        },
+        {
+            "Handle": "ippb",
+            "Bank_name": "India Post Payments Bank"
+        },
+        {
+            "Handle": "iob",
+            "Bank_name": "Indian Overseas Bank"
+        },
+        {
+            "Handle": "IOBA",
+            "Bank_name": "Indian Overseas Bank"
+        },
+        {
+            "Handle": "indus",
+            "Bank_name": "Indusind Bank"
+        },
+        {
+            "Handle": "indb",
+            "Bank_name": "Indusind Bank"
+        },
+        {
+            "Handle": "indusv",
+            "Bank_name": "Indusind Bank"
+        },
+        {
+            "Handle": "ind",
+            "Bank_name": "Indusind Bank"
+        },
+        {
+            "Handle": "jkb",
+            "Bank_name": "Jammu and Kashmir Bank"
+        },
+        {
+            "Handle": "JAKA",
+            "Bank_name": "Jammu and Kashmir Bank"
+        },
+        {
+            "Handle": "janabank",
+            "Bank_name": "Jana Small Finance Bank"
+        },
+        {
+            "Handle": "JSFB",
+            "Bank_name": "Jana Small Finance Bank"
+        },
+        {
+            "Handle": "jsb",
+            "Bank_name": "Janata Sahakari Bank"
+        },
+        {
+            "Handle": "JSBP",
+            "Bank_name": "Janata Sahakari Bank"
+        },
+        {
+            "Handle": "jio",
+            "Bank_name": "Jio Payments Bank"
+        },
+        {
+            "Handle": "JIOP",
+            "Bank_name": "Jio Payments Bank"
+        },
+        {
+            "Handle": "kbl",
+            "Bank_name": "Karnataka Bank"
+        },
+        {
+            "Handle": "KARB",
+            "Bank_name": "Karnataka Bank"
+        },
+        {
+            "Handle": "kvb",
+            "Bank_name": "Karur Vysya Bank"
+        },
+        {
+            "Handle": "KVBL",
+            "Bank_name": "Karur Vysya Bank"
+        },
+        {
+            "Handle": "kotak",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "kmbl",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "kaypay",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "KKBK",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "kmb",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "lvb",
+            "Bank_name": "Lakshmi Vilas Bank"
+        },
+        {
+            "Handle": "LAVB",
+            "Bank_name": "Lakshmi Vilas Bank"
+        },
+        {
+            "Handle": "mahb",
+            "Bank_name": "Bank of Maharashtra"
+        },
+        {
+            "Handle": "MAHG",
+            "Bank_name": "Bank of Maharashtra"
+        },
+        {
+            "Handle": "obc",
+            "Bank_name": "Oriental Bank"
+        },
+        {
+            "Handle": "ORBC",
+            "Bank_name": "Oriental Bank"
+        },
+        {
+            "Handle": "paytm",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "PYTM",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "paytn",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "paytmwallet",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "pautm",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "pty",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "ptyes",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "ptsbi",
+            "Bank_name": "Paytm Payments Bank"
+        },
+        {
+            "Handle": "pnb",
+            "Bank_name": "Punjab National Bank"
+        },
+        {
+            "Handle": "PUNB",
+            "Bank_name": "Punjab National Bank"
+        },
+        {
+            "Handle": "psb",
+            "Bank_name": "Punjab & Sind Bank"
+        },
+        {
+            "Handle": "PSIB",
+            "Bank_name": "Punjab & Sind Bank"
+        },
+        {
+            "Handle": "psbpay",
+            "Bank_name": "Punjab & Sind Bank"
+        },
+        {
+            "Handle": "rbl",
+            "Bank_name": "RBL Bank"
+        },
+        {
+            "Handle": "ratn",
+            "Bank_name": "RBL Bank"
+        },
+        {
+            "Handle": "rapl",
+            "Bank_name": "RBL Bank"
+        },
+        {
+            "Handle": "rb1",
+            "Bank_name": "RBL Bank"
+        },
+        {
+            "Handle": "rblbank",
+            "Bank_name": "RBL Bank"
+        },
+        {
+            "Handle": "SRCB",
+            "Bank_name": "Saraswat Co-operative Bank"
+        },
+        {
+            "Handle": "sbi",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "wasbi",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "oksbi",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "okisbi",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "SBIN",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "sbi.kirin",
+            "Bank_name": "State Bank of India"
+        },
+        {
+            "Handle": "SMCB",
+            "Bank_name": "Shivalik Bank "
+        },
+        {
+            "Handle": "sib",
+            "Bank_name": "South Indian Bank"
+        },
+        {
+            "Handle": "SIBL",
+            "Bank_name": "South Indian Bank"
+        },
+        {
+            "Handle": "sib0",
+            "Bank_name": "South Indian Bank"
+        },
+        {
+            "Handle": "sbl",
+            "Bank_name": "South Indian Bank"
+        },
+        {
+            "Handle": "syndicate",
+            "Bank_name": "Syndicate Bank "
+        },
+        {
+            "Handle": "SYNB",
+            "Bank_name": "Syndicate Bank "
+        },
+        {
+            "Handle": "tmb",
+            "Bank_name": "Tamilnad Mercantile Bank"
+        },
+        {
+            "Handle": "TMBL",
+            "Bank_name": "Tamilnad Mercantile Bank"
+        },
+        {
+            "Handle": "tjsb",
+            "Bank_name": "TJSB Bank"
+        },
+        {
+            "Handle": "Ujjivan",
+            "Bank_name": "Ujjivan Small Finance Bank"
+        },
+        {
+            "Handle": "UJVN",
+            "Bank_name": "Ujjivan Small Finance Bank"
+        },
+        {
+            "Handle": "unionbank",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "uboi",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "unionbankofindia",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "UBIN",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "UNIONBANK",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "utkarshbank",
+            "Bank_name": "Utkarsh Small Finance Bank"
+        },
+        {
+            "Handle": "UTKS",
+            "Bank_name": "Utkarsh Small Finance Bank"
+        },
+        {
+            "Handle": "vijb",
+            "Bank_name": "Vijaya Bank"
+        },
+        {
+            "Handle": "ybl",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yesbank",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yesbankltd",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yes bankltd",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yapl",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yesg",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "YESB",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yespay",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yeabank",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "y",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "yesfam",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "fincarem",
+            "Bank_name": "Fincare Small Finance Bank"
+        },
+        {
+            "Handle": "fincarebank",
+            "Bank_name": "Fincare Small Finance Bank"
+        },
+        {
+            "Handle": "FSFB",
+            "Bank_name": "Fincare Small Finance Bank"
+        },
+        {
+            "Handle": "indianbank",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "indianbk",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "IDIB",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "indianbnk",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "allbnk",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "indiabk",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "allbank",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "indinbank",
+            "Bank_name": "Indian Bank"
+        },
+        {
+            "Handle": "upi",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "bhim",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "upo",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "rbi",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "gpayqr",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "npci",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "ad",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "bi",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "up",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "scb",
+            "Bank_name": "Standard Chartered Bank"
+        },
+        {
+            "Handle": "s2b",
+            "Bank_name": "Standard Chartered Bank"
+        },
+        {
+            "Handle": "SCBL",
+            "Bank_name": "Standard Chartered Bank"
+        },
+        {
+            "Handle": "united",
+            "Bank_name": "United Bank"
+        },
+        {
+            "Handle": "ubi",
+            "Bank_name": "United Bank"
+        },
+        {
+            "Handle": "utbi",
+            "Bank_name": "United Bank"
+        },
+        {
+            "Handle": "uco",
+            "Bank_name": "United Commercial Bank"
+        },
+        {
+            "Handle": "ucobank",
+            "Bank_name": "United Commercial Bank"
+        },
+        {
+            "Handle": "UCBA",
+            "Bank_name": "United Commercial Bank"
+        },
+        {
+            "Handle": "abhy",
+            "Bank_name": "Abhyudaya Co-operative Bank"
+        },
+        {
+            "Handle": "amcb",
+            "Bank_name": "Ahmedadabad Mercantile Co-operative Bank"
+        },
+        {
+            "Handle": "akjb",
+            "Bank_name": "The Akola Janata Commercial Co-op Bank"
+        },
+        {
+            "Handle": "alla",
+            "Bank_name": "Allahabad Bank"
+        },
+        {
+            "Handle": "aucb",
+            "Bank_name": "Almora Urban Co-Operative Bank"
+        },
+        {
+            "Handle": "ajhc",
+            "Bank_name": "Ambarnath Jai-Hind Co-Op Bank Limited"
+        },
+        {
+            "Handle": "apgv",
+            "Bank_name": "Andhra Pradesh Grameena Vikas Bank"
+        },
+        {
+            "Handle": "asbl",
+            "Bank_name": "Apna Sahakari Bank"
+        },
+        {
+            "Handle": "arbl",
+            "Bank_name": "Arvind Sahakari Bank"
+        },
+        {
+            "Handle": "anzb",
+            "Bank_name": "Australia and New Zealand Banking Group"
+        },
+        {
+            "Handle": "bofa",
+            "Bank_name": "Bank of America"
+        },
+        {
+            "Handle": "bcey",
+            "Bank_name": "Bank of Ceylon"
+        },
+        {
+            "Handle": "barc",
+            "Bank_name": "Barclays Bank"
+        },
+        {
+            "Handle": "bacb",
+            "Bank_name": "Bassein Catholic Co-operative Bank"
+        },
+        {
+            "Handle": "bnsb",
+            "Bank_name": "Bhagini Nivedita Bank"
+        },
+        {
+            "Handle": "bmcb",
+            "Bank_name": "Bombay Mercantile Co-operative Bank"
+        },
+        {
+            "Handle": "clbl",
+            "Bank_name": "Capital Small Finance Bank"
+        },
+        {
+            "Handle": "cgrb",
+            "Bank_name": "Chhattisgarh Rajya Gramin Bank"
+        },
+        {
+            "Handle": "citi",
+            "Bank_name": "Citibank"
+        },
+        {
+            "Handle": "citigold",
+            "Bank_name": "Citibank"
+        },
+        {
+            "Handle": "ccbl",
+            "Bank_name": "Citizencredit Co-op Bank"
+        },
+        {
+            "Handle": "coas",
+            "Bank_name": "Coastal Bank "
+        },
+        {
+            "Handle": "corp",
+            "Bank_name": "Corporation Bank"
+        },
+        {
+            "Handle": "crly",
+            "Bank_name": "Credit Agricole Corporate and Investment Bank"
+        },
+        {
+            "Handle": "cres",
+            "Bank_name": "Credit Suisse"
+        },
+        {
+            "Handle": "dicg",
+            "Bank_name": "Deposit Insurance and Credit Guarantee Corporation"
+        },
+        {
+            "Handle": "dmkj",
+            "Bank_name": "Jaoli Sahakari Bank"
+        },
+        {
+            "Handle": "dnsb",
+            "Bank_name": "Dombivli Nagari Sahakari Bank"
+        },
+        {
+            "Handle": "durg",
+            "Bank_name": "Durgapur Steel Peoples' Co-operative Bank"
+        },
+        {
+            "Handle": "ebil",
+            "Bank_name": "Emirates NBD Bank"
+        },
+        {
+            "Handle": "eibi",
+            "Bank_name": "Exim Bank of India"
+        },
+        {
+            "Handle": "deob",
+            "Bank_name": "Deogiri Nagri Sahakari Bank"
+        },
+        {
+            "Handle": "nbad",
+            "Bank_name": "First Abu Dhabi Bank"
+        },
+        {
+            "Handle": "firn",
+            "Bank_name": "FirstRand Bank"
+        },
+        {
+            "Handle": "pjsb",
+            "Bank_name": "GP Parsik Bank"
+        },
+        {
+            "Handle": "harc",
+            "Bank_name": "Haryana State Co-operative Apex Bank"
+        },
+        {
+            "Handle": "hpsc",
+            "Bank_name": "Himachal Pradesh State Co-operative Bank"
+        },
+        {
+            "Handle": "husb",
+            "Bank_name": "Hutatma Sahakari Bank"
+        },
+        {
+            "Handle": "iduk",
+            "Bank_name": "Idukki District Cooperative Bank"
+        },
+        {
+            "Handle": "icbk",
+            "Bank_name": "Industrial and Commercial Bank of China"
+        },
+        {
+            "Handle": "ibko",
+            "Bank_name": "Industrial Bank of Korea"
+        },
+        {
+            "Handle": "itbl",
+            "Bank_name": "Irinjalakuda Town Co operative Bank"
+        },
+        {
+            "Handle": "jjsb",
+            "Bank_name": "Jalgaon Janata Sahakari Bank"
+        },
+        {
+            "Handle": "jsbl",
+            "Bank_name": "Janakalyan Sahakari Bank"
+        },
+        {
+            "Handle": "jasb",
+            "Bank_name": "Janaseva Sahakari Bank Borivli"
+        },
+        {
+            "Handle": "jana",
+            "Bank_name": "Janaseva Sahakari Bank"
+        },
+        {
+            "Handle": "jtsc",
+            "Bank_name": "JANATHA SEVA Co-operative Bank"
+        },
+        {
+            "Handle": "chas",
+            "Bank_name": "J.P. Morgan Private Bank"
+        },
+        {
+            "Handle": "kaij",
+            "Bank_name": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank"
+        },
+        {
+            "Handle": "kjsb",
+            "Bank_name": "Kalyan Janata Sahakari Bank"
+        },
+        {
+            "Handle": "pkgb",
+            "Bank_name": "Karnataka Gramin Bank"
+        },
+        {
+            "Handle": "kvgb",
+            "Bank_name": "Karnataka Vikas Grameena Bank"
+        },
+        {
+            "Handle": "koex",
+            "Bank_name": "Hana Bank"
+        },
+        {
+            "Handle": "klgb",
+            "Bank_name": "Kerala Gramin Bank"
+        },
+        {
+            "Handle": "kbkb",
+            "Bank_name": "Kookmin Bank"
+        },
+        {
+            "Handle": "msbl",
+            "Bank_name": "Mahesh Sahakari Bank"
+        },
+        {
+            "Handle": "kdcb",
+            "Bank_name": "Kozhikode District Co-op Bank"
+        },
+        {
+            "Handle": "mdbk",
+            "Bank_name": "Model Co-op Bank"
+        },
+        {
+            "Handle": "nucb",
+            "Bank_name": "Nagar Urban Co-operative Bank"
+        },
+        {
+            "Handle": "ngsb",
+            "Bank_name": "Nagpur Nagarik Sahakari Bank"
+        },
+        {
+            "Handle": "nbrd",
+            "Bank_name": "National Bank for Agriculture and Rural Development"
+        },
+        {
+            "Handle": "njbk",
+            "Bank_name": "Nav Jeevan Co-operative Bank"
+        },
+        {
+            "Handle": "nkgs",
+            "Bank_name": "NKGSB Co-operative Bank"
+        },
+        {
+            "Handle": "nesf",
+            "Bank_name": "North East Small Finance Bank"
+        },
+        {
+            "Handle": "nspb",
+            "Bank_name": "NSDL Payments Bank"
+        },
+        {
+            "Handle": "nsdl",
+            "Bank_name": "NSDL Payments Bank"
+        },
+        {
+            "Handle": "psbl",
+            "Bank_name": "Pavana Sahakari Bank"
+        },
+        {
+            "Handle": "pmec",
+            "Bank_name": "Prime Co-Operative Bank"
+        },
+        {
+            "Handle": "ibbk",
+            "Bank_name": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+            "Handle": "qnba",
+            "Bank_name": "Qatar National Bank"
+        },
+        {
+            "Handle": "rabo",
+            "Bank_name": "Rabobank"
+        },
+        {
+            "Handle": "rrbp",
+            "Bank_name": "Rajarambapu Sahakari Bank"
+        },
+        {
+            "Handle": "rssb",
+            "Bank_name": "Rajarshi Shahu Sahakari Bank"
+        },
+        {
+            "Handle": "rmgb",
+            "Bank_name": "Rajasthan Marudhara Gramin Bank"
+        },
+        {
+            "Handle": "rsbl",
+            "Bank_name": "Rajgurunagar Sahakari Bank"
+        },
+        {
+            "Handle": "rnsb",
+            "Bank_name": "Rajkot Nagarik Sahakari Bank"
+        },
+        {
+            "Handle": "rdcb",
+            "Bank_name": "Rajnandgaon District Central Co-Operative Bank"
+        },
+        {
+            "Handle": "rbis",
+            "Bank_name": "Reserve Bank of India"
+        },
+        {
+            "Handle": "sahe",
+            "Bank_name": "Sahebrao Deshmukh Co-operative Bank"
+        },
+        {
+            "Handle": "sbls",
+            "Bank_name": "Samarth Sahakari Bank"
+        },
+        {
+            "Handle": "sant",
+            "Bank_name": "Sant Sopankaka Sahakari Bank"
+        },
+        {
+            "Handle": "snbk",
+            "Bank_name": "Saraspur Nagrik Co-Operative Bank"
+        },
+        {
+            "Handle": "sabr",
+            "Bank_name": "SBER Bank"
+        },
+        {
+            "Handle": "stcb",
+            "Bank_name": "SBM Bank India"
+        },
+        {
+            "Handle": "sksb",
+            "Bank_name": "Shikshak Sahakari Bank"
+        },
+        {
+            "Handle": "shbk",
+            "Bank_name": "Shinhan Bank"
+        },
+        {
+            "Handle": "sknb",
+            "Bank_name": "Shree Kadi Nagarik Sahakari Bank"
+        },
+        {
+            "Handle": "crub",
+            "Bank_name": "Shri Chhatrapati Rajarshi Shahu Urban Co-Operative Bank"
+        },
+        {
+            "Handle": "svsh",
+            "Bank_name": "Shri Veershaiv Co-Operative Bank"
+        },
+        {
+            "Handle": "mvcb",
+            "Bank_name": "Sir M Visvesvaraya Co-operative Bank"
+        },
+        {
+            "Handle": "smnb",
+            "Bank_name": "Smriti Nagrik Sahakari Bank"
+        },
+        {
+            "Handle": "sjsb",
+            "Bank_name": "Solapur Janata Sahakari Bank"
+        },
+        {
+            "Handle": "tnsc",
+            "Bank_name": "Tamil Nadu State Apex Co-op Bank"
+        },
+        {
+            "Handle": "tbsb",
+            "Bank_name": "Thane Bharat Sahakari Bank"
+        },
+        {
+            "Handle": "tdcb",
+            "Bank_name": "Thane District Central Co-Op Bank"
+        },
+        {
+            "Handle": "uucb",
+            "Bank_name": "Udaipur Mahila Samridhi Urban Co-op Bank"
+        },
+        {
+            "Handle": "urbn",
+            "Bank_name": "Urban Co-operative Bank"
+        },
+        {
+            "Handle": "vara",
+            "Bank_name": "Varachha Co-operative Bank"
+        },
+        {
+            "Handle": "vsbl",
+            "Bank_name": "Vishweshwar Sahakari Bank"
+        },
+        {
+            "Handle": "zcbl",
+            "Bank_name": "Zoroastrian Co-operative Bank"
+        },
+        {
+            "Handle": "thrs",
+            "Bank_name": "Thrissur District Co-Operative Bank"
+        },
+        {
+            "Handle": "tgmb",
+            "Bank_name": "Tumkur Grain Merchants Co-operative Bank"
+        },
+        {
+            "Handle": "uovb",
+            "Bank_name": "United Overseas Bank"
+        },
+        {
+            "Handle": "upcb",
+            "Bank_name": "Uttar Pradesh Co-operative Bank"
+        },
+        {
+            "Handle": "vasj",
+            "Bank_name": "Vasai Janata Sahakari Bank"
+        },
+        {
+            "Handle": "vsvb",
+            "Bank_name": "Vasai Vikas Sahakari Bank"
+        },
+        {
+            "Handle": "hvbk",
+            "Bank_name": "Woori Bank"
+        },
+        {
+            "Handle": "zsbl",
+            "Bank_name": "Zila Sahkari Bank"
+        },
+        {
+            "Handle": "susb",
+            "Bank_name": "SUCO Souharda Sahakari Bank"
+        },
+        {
+            "Handle": "smbc",
+            "Bank_name": "Sumitomo Mitsui Banking Corporation"
+        },
+        {
+            "Handle": "sunb",
+            "Bank_name": "Surat National Co-op Bank"
+        },
+        {
+            "Handle": "sutb",
+            "Bank_name": "Suryoday Small Finance Bank"
+        },
+        {
+            "Handle": "suryoday",
+            "Bank_name": "Suryoday Small Finance Bank"
+        },
+        {
+            "Handle": "sutc",
+            "Bank_name": "Sutex Co-op Bank"
+        },
+        {
+            "Handle": "tsab",
+            "Bank_name": "Telangana State Co-operative Apex Bank"
+        },
+        {
+            "Handle": "ttcb",
+            "Bank_name": "Textile Traders Co-Operative Bank"
+        },
+        {
+            "Handle": "ahdc",
+            "Bank_name": "Ahmednagar District Central Co-operative Bank"
+        },
+        {
+            "Handle": "ajar",
+            "Bank_name": "Ajara Urban Co-Op. Bank"
+        },
+        {
+            "Handle": "adcc",
+            "Bank_name": "Akola-Washim District Central Bank Co-operative"
+        },
+        {
+            "Handle": "yes",
+            "Bank_name": "Akola Urban Co-Op Bank"
+        },
+        {
+            "Handle": "apmc",
+            "Bank_name": "Andhra Pradesh Mahesh Co-operative Urban Bank"
+        },
+        {
+            "Handle": "tbmc",
+            "Bank_name": "Banaskantha Mercantile Co-Operative Bank"
+        },
+        {
+            "Handle": "tnsb",
+            "Bank_name": "Bank of Nova Scotia"
+        },
+        {
+            "Handle": "bara",
+            "Bank_name": "Baramati Sahakari Bank"
+        },
+        {
+            "Handle": "dscb",
+            "Bank_name": "Delhi State Co-operative Bank"
+        },
+        {
+            "Handle": "gdcb",
+            "Bank_name": "Gadchiroli District Central Co-operative Bank"
+        },
+        {
+            "Handle": "secb",
+            "Bank_name": "Sree Charan Souhardha Co-Operative Bank"
+        },
+        {
+            "Handle": "hcbl",
+            "Bank_name": "Hasti Co-operative Bank"
+        },
+        {
+            "Handle": "jpcb",
+            "Bank_name": "Jalgaon Peoples Co-Op Bank"
+        },
+        {
+            "Handle": "kucb",
+            "Bank_name": "Karad Urban Co-operative Bank"
+        },
+        {
+            "Handle": "ksca",
+            "Bank_name": "Karnataka State Co-Operative Apex Bank"
+        },
+        {
+            "Handle": "ksbk",
+            "Bank_name": "Kerala State Co-operative Bank"
+        },
+        {
+            "Handle": "kolh",
+            "Bank_name": "Kolhapur Urban Co-op Bank"
+        },
+        {
+            "Handle": "knsb",
+            "Bank_name": "Kurmanchal Nagar Sahkari Bank"
+        },
+        {
+            "Handle": "mkpb",
+            "Bank_name": "Malkapur Urban Cooperative Bank"
+        },
+        {
+            "Handle": "mcab",
+            "Bank_name": "Meghalaya Cooperative Apex Bank"
+        },
+        {
+            "Handle": "mubl",
+            "Bank_name": "Municipal Co-Operative Bank"
+        },
+        {
+            "Handle": "mslm",
+            "Bank_name": "Muslim Co-operative Bank"
+        },
+        {
+            "Handle": "ntbl",
+            "Bank_name": "Nainital Bank"
+        },
+        {
+            "Handle": "nmcb",
+            "Bank_name": "Nasik Merchants Co-Op Bank"
+        },
+        {
+            "Handle": "navn",
+            "Bank_name": "Navnirman Co-op. Bank"
+        },
+        {
+            "Handle": "tncb",
+            "Bank_name": "Nawanagar Co-operative Bank"
+        },
+        {
+            "Handle": "orcb",
+            "Bank_name": "Odisha State Cooperative Bank"
+        },
+        {
+            "Handle": "pucb",
+            "Bank_name": "Pandharpur Urban Co-operative bank"
+        },
+        {
+            "Handle": "tpsc",
+            "Bank_name": "Punjab State Cooperative Bank"
+        },
+        {
+            "Handle": "pusd",
+            "Bank_name": "Pusad urban cooperative bank"
+        },
+        {
+            "Handle": "sdce",
+            "Bank_name": "Satara District Central Co-Op Bank"
+        },
+        {
+            "Handle": "svbl",
+            "Bank_name": "Seva Vikas Co-operative Bank"
+        },
+        {
+            "Handle": "sidc",
+            "Bank_name": "Sindhudurg District Central Co-Operative Bank"
+        },
+        {
+            "Handle": "sdcb",
+            "Bank_name": "Surat District Co-Op Bank"
+        },
+        {
+            "Handle": "bmbl",
+            "Bank_name": "Bharatiya Mahila Bank"
+        },
+        {
+            "Handle": "gscb",
+            "Bank_name": "Gujarat State Co-Operative Bank"
+        },
+        {
+            "Handle": "msnu",
+            "Bank_name": "Mehsana Urban Co-operative Bank"
+        },
+        {
+            "Handle": "sbhy",
+            "Bank_name": "State Bank of Hyderabad"
+        },
+        {
+            "Handle": "sbmy",
+            "Bank_name": "State Bank of Mysore"
+        },
+        {
+            "Handle": "stbp",
+            "Bank_name": "State Bank of Patiala"
+        },
+        {
+            "Handle": "sbtr",
+            "Bank_name": "State Bank of Travancore"
+        },
+        {
+            "Handle": "abna",
+            "Bank_name": "ABN AMRO Bank"
+        },
+        {
+            "Handle": "adcb",
+            "Bank_name": "Abu Dhabi Commercial Bank"
+        },
+        {
+            "Handle": "amex",
+            "Bank_name": "American Express Bank"
+        },
+        {
+            "Handle": "bbkm",
+            "Bank_name": "Bank of Bahrain and Kuwait"
+        },
+        {
+            "Handle": "bcbm",
+            "Bank_name": "Bharat Co-operative Bank"
+        },
+        {
+            "Handle": "bnpa",
+            "Bank_name": "BNP Paribas"
+        },
+        {
+            "Handle": "botm",
+            "Bank_name": "Bank of Tokyo-Mitsubishi UFJ"
+        },
+        {
+            "Handle": "braj",
+            "Bank_name": "Bank of Rajasthan"
+        },
+        {
+            "Handle": "cent",
+            "Bank_name": "Centurion Bank of Punjab"
+        },
+        {
+            "Handle": "ctcb",
+            "Bank_name": "Chinatrust Commercial Bank"
+        },
+        {
+            "Handle": "deut",
+            "Bank_name": "Deutsche Bank"
+        },
+        {
+            "Handle": "gbcb",
+            "Bank_name": "Greater Bombay Co-operative Bank"
+        },
+        {
+            "Handle": "kcbl",
+            "Bank_name": "Kapol Co-operative Bank"
+        },
+        {
+            "Handle": "kccb",
+            "Bank_name": "Kalupur Commercial Co-operative Bank"
+        },
+        {
+            "Handle": "krth",
+            "Bank_name": "Krungthai Bank"
+        },
+        {
+            "Handle": "lkbl",
+            "Bank_name": "Lord Krishna Bank"
+        },
+        {
+            "Handle": "mhcb",
+            "Bank_name": "Mizuho Corporate Bank"
+        },
+        {
+            "Handle": "msci",
+            "Bank_name": "Maharashtra State Co-operative Bank"
+        },
+        {
+            "Handle": "mshq",
+            "Bank_name": "Mashreq Bank"
+        },
+        {
+            "Handle": "nicb",
+            "Bank_name": "New India Co-Operative Bank"
+        },
+        {
+            "Handle": "oiba",
+            "Bank_name": "Oman International Bank"
+        },
+        {
+            "Handle": "pmcb",
+            "Bank_name": "Punjab and Maharashtra Co-operative Bank"
+        },
+        {
+            "Handle": "sbbj",
+            "Bank_name": "State Bank of Bikaner & Jaipur"
+        },
+        {
+            "Handle": "soge",
+            "Bank_name": "Societe Generale Bank"
+        },
+        {
+            "Handle": "ssau",
+            "Bank_name": "State Bank of Saurashtra"
+        },
+        {
+            "Handle": "stin",
+            "Bank_name": "State Bank of Indore"
+        },
+        {
+            "Handle": "svcb",
+            "Bank_name": "Shamrao Vithal Co-operative Bank"
+        },
+        {
+            "Handle": "vysa",
+            "Bank_name": "ING Vysya Bank"
+        },
+        {
+            "Handle": "wbsc",
+            "Bank_name": "West Bengal State Co-operative Bank"
+        },
+        {
+            "Handle": "omni",
+            "Bank_name": "OmniCard"
+        },
+        {
+            "Handle": "federal",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fbl",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fedral",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fbpe",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "FDRL",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fifederal",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fedeal",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fb1",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "fbe",
+            "Bank_name": "Federal Bank"
+        },
+        {
+            "Handle": "benow",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "Bharatpe",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "pay1",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "Qrupia",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "tonetag",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "slice",
+            "Bank_name": "Garagepreneurs Internet Private"
+        },
+        {
+            "Handle": "indie",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "yap",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "fam",
+            "Bank_name": "FamPay"
+        },
+        {
+            "Handle": ".ifsc.npci",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "aegis",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "testtest",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "test",
+            "Bank_name": "NA"
+        },
+        {
+            "Handle": "amazonpay",
+            "Bank_name": "Amazon Pay"
+        },
+        {
+            "Handle": "spicepay",
+            "Bank_name": "Spice Pay"
+        },
+        {
+            "Handle": "dhani",
+            "Bank_name": "Dhani"
+        },
+        {
+            "Handle": "bpaywallet",
+            "Bank_name": "Bajaj Finserv"
+        },
+        {
+            "Handle": "trans",
+            "Bank_name": "CheQ"
+        },
+        {
+            "Handle": "pinelabs",
+            "Bank_name": "Fave"
+        },
+        {
+            "Handle": "mbk",
+            "Bank_name": "MobiKwik"
+        },
+        {
+            "Handle": "digikhata",
+            "Bank_name": "DigiKhata"
+        },
+        {
+            "Handle": "oxymoney",
+            "Bank_name": "Oxymoney"
+        },
+        {
+            "Handle": "liv",
+            "Bank_name": "QuikWallet"
+        },
+        {
+            "Handle": "paymoni",
+            "Bank_name": "Unimoni India"    
+        },
+        {
+            "Handle": "unionbankofindia",
+            "Bank_name": "Union Bank of India"
+        },
+        {
+            "Handle": "ptys",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "superyes",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "Yespop",
+            "Bank_name": "Yes Bank"
+        },
+        {
+            "Handle": "rxairtel",
+            "Bank_name": "Airtel Payment Bank"
+        },
+        {
+            "Handle": "gwaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "kotak811",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "mycggb",
+            "Bank_name": "Chaitanya Godavari Grameena Bank"
+        },
+        {
+            "Handle": "pineaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "psbank",
+            "Bank_name": "Punjab & Sind Bank"
+        },
+        {
+            "Handle": "kbi",
+            "Bank_name": "Karnataka Bank"
+        },
+        {
+            "Handle": "cashfreensdlpb",
+            "Bank_name": "NSDL Payments Bank Limited"
+        },
+        {
+            "Handle": "phonepe",
+            "Bank_name": "None"
+        },
+        {
+            "Handle": "nyes",
+            "Bank_name": "Andhra Bank"
+        },
+        {
+            "Handle": "yescred",
+            "Bank_name": "YES BANK"
+        },
+        {
+            "Handle": "bpunity",
+            "Bank_name": "Bank of Baroda"
+        },
+        {
+            "Handle": "unitype",
+            "Bank_name": "Unity Small finance Bank Limited"
+        },
+        {
+            "Handle": "slc",
+            "Bank_name": "Uttarakhand Gramin Bank"
+        },
+        {
+            "Handle": "jiopay",
+            "Bank_name": "Jio Payments Bank"
+        },
+        {
+            "Handle": "ypbiz",
+            "Bank_name": "YES BANK"
+        },
+        {
+            "Handle": "mswipesbm",
+            "Bank_name": "SBM Bank India"
+        },
+        {
+            "Handle": "jkgrameen",
+            "Bank_name": "J&K Grameen Bank"
+        },
+        {
+            "Handle": "rxaxis",
+            "Bank_name": "Axis Bank"
+        },
+        {
+            "Handle": "idbipay",
+            "Bank_name": "IDBI Bank"
+        },
+        {
+            "Handle": "mufin",
+            "Bank_name": "None"
+        },
+        {
+            "Handle": "indusind",
+            "Bank_name": "Kotak Mahindra Bank"
+        },
+        {
+            "Handle": "mbkns",
+            "Bank_name": "Bank Of Baroda"
+        }
+    ]
+}

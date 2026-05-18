@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #a59ffa;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.content-container {
+    background-color: rgb(214, 188, 255);
+    width: 98%;
+    padding: 10px 40px;
+    border-radius: 5px;
+    height: 95vh;
+}
+
+.file-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    padding: 10px 10px;
+    cursor: pointer;
+    background-color: #fff;
+    border: none;
+    color: #000;
+    border-radius: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.btn:hover {
+    background-color: #5a5693;
+    color: #fff;
+}
+
+#previewContainer {
+    height: 82vh;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.mergeType {
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn-container{
+    display: flex;
+    gap: 15px;
+}
+
+.website-form-container {
+    display: flex;
+    align-items: center;
+    /* background: #E6C6FC; Soft purple like in your image */
+    padding: 0 100px 0px 30px;
+    border-radius: 8px;
+    /* width: fit-content; */
+}
+
+.website-data-file {
+    /* display: flex; */
+    align-items: center;
+    gap: 10px;
+}
+
+.website-select-actions {
+    display: flex;
+    /* flex-direction: column;
+    align-items: flex-start; */
+    gap: 6px;
+}
+
+input[type="file"] {
+    border-radius: 4px;
+    border: 1px solid #aaa;
+    margin-top: 8px;
+}
+
+select {
+    /* font-size: 16px; */
+    border-radius: 4px;
+    padding: 0px 4px;
+    border: 1px solid #888;
+}
+
+.update_btn {
+    white-space: nowrap;     
+    min-width: 100px;         
+    height: 32px;            
+    /* font-size: 18px;          */
+    line-height: normal;     
+    text-align: center; 
+    padding: 0 16px;
+    background: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.update_btn:hover {
+    background: #5a5693;
+    color: #fff;
+}
+
+.website-select-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+#headerPreview {
+    display: flex;
+    gap: 8px;
+}
+
+/* Optional: Make chips nicer */
+.header-chip {
+    display: inline-block;
+    background: #5a5693;
+    color: #fff;
+    padding: 6px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+@keyframes progressBarStripes {
+  0% { background-position: 200% 0; }
+  100% { background-position: 0 0; }
+}
+
+#top-progress-bar {
+  display: none;
+  width: 100vw;
+  height: 5px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+  background: #4c4974; /* Your solid color */
+}
+

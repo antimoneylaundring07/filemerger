@@ -1,0 +1,41 @@
+{
+    "Sheet1": [
+        {
+            "customer": "Mystery Shopping",
+            "package_name": "com.mysteryshopping",
+            "channel_name": "Messaging Channel Platforms",
+            "bank_account_number": "NA",
+            "bank_name": "NA",
+            "upi_vpa": "NA",
+            "ac_holder_name": "",
+            "screenshot": "NA",
+            "platform": "NA",
+            "search_for": "Messaging Channel Platforms",
+            "status": "Active",
+            "upi_bank_account_wallet": "UPI",
+            "priority": "High",
+            "flag": "1",
+            "cessation": "Open",
+            "reviewed_status": "1",
+            "handle": "mahb",
+            "origin": "India",
+            "payment_gateway_name": "NA",
+            "category_of_website": "Gambling/Betting",
+            "screenshot_case_report_link": "NA",
+            "payment_gateway_intermediate_url": "NA",
+            "neft_imps": "NA",
+            "transaction_method": "NA",
+            "scam_type": "",
+            "ifsc_code": "NA",
+            "bank_branch_details": "NA",
+            "payment_gateway_url": "NA",
+            "upi_url": "NA",
+            "website_url": "http://wa.me/+918888886863",
+            "inserted_date": "NA",
+            "reported_earlier": "No",
+            "approvd_status": "1",
+            "feature_type": "BS Money Laundering",
+            "case_generated_time": "NA"
+        }
+    ]
+}

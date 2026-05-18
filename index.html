@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>File Merger Tool</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+
+<body>
+    <div id="top-progress-bar"></div>
+    <div class="container">
+        <div class="content-container">
+            <div class="file-content">
+                <div class="fist-file">
+                    <label for="avatar">Choose First File:</label>
+                    <input type="file" id="uploadFirstFile" accept=".xlsx, .xls, .csv" />
+                </div>
+                <div class="website-form-container">
+                    <div class="website-data-file">
+                        <label for="websiteExcelFile">Choose Origin & Category File:</label>
+                        <input type="file" id="websiteExcelFile" accept=".xlsx, .xls, .csv" />
+                    </div>
+
+                    <div class="website-select-actions" style="display:flex; gap:12px; align-items:center;">
+                        <button id="updateButton" class="update_btn">Update</button>
+                    </div>
+                </div>
+
+                <div>
+                    <label for="">File Format:</label>
+                    <select name="fileFormat" id="mergeTypeDropdown" class="mergeType">
+                        <option value="upi">UPI/Bank/Wallet</option>
+                        <option value="telegram">Messaging Channel</option>
+                        <option value="credit_netbanking">Credit Card/Netbanking</option>
+                        <option value="not_found">Not Found</option>
+                        <option value="crypto">Crypto</option>
+                        <option value="investment_scam">Investment Message</option>
+                        <option value="investment_web">Investment Web</option>
+                        <option value="origin_category">Origin & Category</option>
+                    </select>
+                </div>
+                <div class="btn-container">
+                    <Button class="preview-btn btn" id="download" onclick="downloadHeader()">Download Header</Button>
+                    <Button class="merge-preview-btn btn" id="mergeDownloadBtn" onclick="handleMergeDownload()">Merge &
+                        Preview Data</Button>
+                </div>
+                <div id="importStatus" style="margin-top:10px; font-weight:bold; color:#007bff;">
+                    <!-- Status will appear here -->
+                </div>
+            </div>
+            <div style="height: 65vh; margin-top: 15px;">
+                <div id="previewContainer">
+                    <!-- Merged data will be shown here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const predefinedHeaders = {
+            upi: ['bank_account_number', 'ifsc_code', 'upi_vpa', 'account_holder_name', 'npci_mfilterit_without_header', 'website_url', 'payment_gateway_url', 'transaction_method'],
+            telegram: ['upi_vpa', 'account_holder_name', 'bank_account_number', 'ifsc_code', 'website_url', 'npci_mfilterit_without_header', 'category'],
+            credit_netbanking: ['website_url', 'intermediate_url_1', 'intermediate_url_2', 'intermediate_url_3', 'intermediate_url_4', 'destination_url', 'transaction_method', 'npci_mfilterit_without_header', 'platform', 'account_holder_name', 'bank_name'],
+            not_found: ['website_url', 'npci_mfilterit_without_header'],
+            crypto: ['Crypto_wallet_id', 'Crypto_platform', 'Balance_in_crypto_wallet', 'Crypto_wallet_transaction_count', 'npci_mfilterit_without_header', 'payment_gateway_url', 'website_url'],
+            investment_scam: ['upi_vpa', 'account_holder_name', 'bank_account_number', 'ifsc_code', 'website_url', 'npci_mfilterit_without_header', 'transaction_method', 'contact_no', 'category'],
+            investment_web: ['bank_account_number', 'ifsc_code', 'upi_vpa', 'account_holder_name', 'npci_mfilterit_without_header', 'website_url', 'payment_gateway_url', 'transaction_method', 'category'],
+            origin_category: ['Website', 'Origin', 'Category']
+        };
+
+        function showHeaders() {
+            const mergeType = document.getElementById("mergeTypeDropdown").value;
+
+            // let headers = [];
+
+            // if (mergeType === "upi" || mergeType === "investment_web") {
+            //     headers = predefinedHeaders["upi"];
+            // } else {
+            //     headers = predefinedHeaders[mergeType] || [];
+            // }
+
+            const headers = predefinedHeaders[mergeType] || [];
+
+            const container = document.getElementById("previewContainer");
+            container.innerHTML = ""; // Clear existing content
+
+            const table = document.createElement("table");
+            table.style.borderCollapse = "collapse";
+            table.style.width = "100%";
+
+            const headerRow = document.createElement("tr");
+
+            // Create table headers
+            headers.forEach(header => {
+                const th = document.createElement("th");
+                th.textContent = header;
+                th.style.border = "1px solid rgb(41 39 68)";
+                th.style.padding = "8px 2px";
+                th.style.backgroundColor = "#5a5693";
+                th.style.color = "#fff";
+                th.style.fontSize = "15px"
+                th.style.fontWeight = "500"
+                th.style.textAlign = "center";
+                th.style.fontFamily = "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+                headerRow.appendChild(th);
+            });
+
+            table.appendChild(headerRow);
+            container.appendChild(table);
+        }
+
+        // Add event listener to dropdown
+        document.getElementById("mergeTypeDropdown").addEventListener("change", showHeaders);
+
+        // Show default headers on page load
+        window.onload = showHeaders;
+
+        function downloadHeader() {
+            const mergeType = document.getElementById("mergeTypeDropdown").value;
+            const headers = predefinedHeaders[mergeType] || [];
+
+            if (headers.length === 0) {
+                alert("No headers found for the selected type.");
+                return;
+            }
+
+            // Create a new workbook and worksheet
+            const workbook = XLSX.utils.book_new();
+            const worksheetData = [headers];
+            const worksheet = XLSX.utils.aoa_to_sheet(worksheetData);
+
+            // Append the worksheet to the workbook
+            XLSX.utils.book_append_sheet(workbook, worksheet, "Headers");
+
+            // Generate Excel file and trigger download
+            const filename = `${mergeType}_headers.xlsx`;
+            XLSX.writeFile(workbook, filename);
+        }
+    </script>
+    <script type="module" src="./script.js"></script>
+</body>
+
+</html>
