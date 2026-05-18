@@ -3,9 +3,7 @@ console.log("script.js loaded!");
 
 const { createClient } = window.supabase;
 
-// const supabaseUrl = 'https://sofdpqvxgekluqxakjao.supabase.co'
 const supabaseUrl = 'https://jkykahgmkdxyfcwexoeh.supabase.co'
-// const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNvZmRwcXZ4Z2VrbHVxeGFramFvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE3MzQ5ODQsImV4cCI6MjA3NzMxMDk4NH0.r7dg0ubQQe6is7C-W0hH0-F7XP8uS7TJVQXsP2GZ5qQ';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpreWthaGdta2R4eWZjd2V4b2VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxMDEwNjIsImV4cCI6MjA5NDY3NzA2Mn0.YrMvQjiG8p_jACKvzqmS9cFdhbQJi0jC343cTR4BA3E';
 const supabase = createClient(supabaseUrl, supabaseKey)
 
