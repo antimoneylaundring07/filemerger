@@ -112,7 +112,7 @@ async function fetchAllRows(tableName) {
 
 
 async function fetchOriginFromSupabase() {
-    const rows = await fetchAllRows('originWebsite');
+    const rows = await fetchAllRows('Website_origin_category');
     const originWebsiteMap = {};
     rows.forEach(row => {
         originWebsiteMap[row.url] = {
@@ -613,7 +613,7 @@ document.getElementById('updateButton').addEventListener('click', handleUpdateDB
 
 async function handleUpdateDB() {
     const fileInput = document.getElementById('websiteExcelFile');
-    const collection = "originWebsite";   // your combined table
+    const collection = "Website_origin_category";   // your combined table
 
     if (!fileInput.files[0]) {
         alert('Please select a file first!');
